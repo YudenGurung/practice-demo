@@ -1,2 +1,3 @@
 # practice-demo
-Practicing Git and Fit Hub
+Practicing Git and Git Hub
+Author - Yuden Gurung
